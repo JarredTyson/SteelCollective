@@ -1,6 +1,14 @@
-# Your Project's Name
+# Steel Collective
 
 One or two paragraphs providing an overview of your project.
+-Publicise band
+-attract traffic
+- Promote opportunities in booking for events such as wedding, shows...etc
+-Shop to purchase merchandise and CD's 
+-Gallery page for youtube videos and photos. 
+-Events page so people can follow.
+-social media links
+-About us ( meet the band)
 
 Essentially, this part is your sales pitch.
  
