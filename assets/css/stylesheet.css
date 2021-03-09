@@ -1,19 +1,95 @@
 
-
-html, body{
-    height: 100%;
-    width: 100%;
-    font-family: 'Poppins', sans-serif;
-    color: #222;
+body {
+    font-family: poppins;
+}
+h1 {
+    color:#fff;
 }
 .navbar {
     padding: .8rem;
 }
-.navbar-nav li {
-    padding-right: 20px;
+
+.menu a {
+    font-size: 1.5em;
+    padding: 2.5rem;
+    color: #fff;
+    letter-spacing: 4px;
+    
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    
+}
+.carousel-caption {
+    bottom: 220px;
+}
+.carousel-caption h5 {
+    font-size: 60px;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    font-weight: 900;
+}
+.carousel-caption p {
+    font-size: 18px;
+    margin:auto;
+    widows: 60%;
+    line-height: 1.9;
+}
+.carousel-caption a {
+    text-transform: uppercase;
+    background: darkorange;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 50px;
+}
+.navbar-nav a{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.navbar-light .navbar-brand{
+    color:#fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link{
+    color: #fff;
+}
+.narbar-light .narvbar-nav .narbar.link {
+    color: #fff;
 }
 .nav-link {
-    font-size: 1.1em !important;
+    padding: .2rem 1rem;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #fff;
+}
+.navbar-togller{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: .3;
+    background: #fff;
+}
+.w-100{
+    height: 100vh;
+}
+@media only screen and (max-width: 767px){
+    .navbar-nav.ml-auto{
+        background: rgba (0,0,0,0.5);
+    }
+.navbar-nav a {
+    font-size: 14px;
+    font-weight: normal;
+}
 }
 /*---Slider----*/
 
@@ -56,7 +132,7 @@ html, body{
 padding-bottom: 2rem;
 }
 .welcome {
-    width: 75%;
+    width: 100%;
     margin: o auto;
     padding-top: 2rem;
 }
@@ -66,6 +142,14 @@ padding-bottom: 2rem;
     margin-top: .3rem;
     margin-bottom: 1rem;
 }
+.booking i {
+    font-size:25px;
+    color: #fff;
+}
+.booking h3 ,p{
+    color:#fff;
+}
+
 .fa-code {
     color: #e54d26;
 }
@@ -91,7 +175,9 @@ padding-bottom: 2rem;
 .social a {
     font-size: 4.5em;
     padding: 3rem;
+    
 }
+
 .fa-facebook {
     color: #3b5998;
 }
@@ -112,7 +198,8 @@ padding-bottom: 2rem;
 .fa-google-plus-g:hover, 
 .fa-instagram:hover, 
 .fa-youtube:hover {
-    color: #d5d5d5
+    color: #d5d5d5;
+    
 }
 
 footer {
