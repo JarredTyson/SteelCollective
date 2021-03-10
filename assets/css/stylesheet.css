@@ -91,6 +91,9 @@ h1 {
     font-weight: normal;
 }
 }
+
+
+
 /*---Slider----*/
 
 .carousel-inner img {
@@ -171,12 +174,23 @@ padding-bottom: 2rem;
 .gif{
     max-width: 100%;
 }
+/*---Gallery----*/
+#photo {
+    clear:both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+}
+#photo img {
+    width:100%;
+}
 
 .social a {
     font-size: 4.5em;
     padding: 3rem;
     
 }
+
 
 .fa-facebook {
     color: #3b5998;
