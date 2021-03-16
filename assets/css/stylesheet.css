@@ -21,6 +21,9 @@ h1 {
     min-height: 300px;
     
 }
+.carousel-item img{
+    object-fit: cover;
+}
 .carousel-caption {
     bottom: 220px;
 }
@@ -174,6 +177,9 @@ padding-bottom: 2rem;
 .gif{
     max-width: 100%;
 }
+.philosophy img{
+object-fit: cover;
+}
 /*---Gallery----*/
 #photo {
     clear:both;
@@ -239,11 +245,25 @@ hr.light-100 {
 }
 
 /*---Media Queries----*/
+
+      
+.small-screen{
+    display: none;
+}
+
 @media (max-width: 992px) {
     .social a {
         font-size: 4em;
         padding: 2rem;
     }
+    .small-screen{
+    display: block;
+
+}
+
+.big-screen{
+    display: none;
+}
 }
 
 @media (max-width: 768px) {
@@ -295,4 +315,5 @@ hr.light-100 {
     font-size: 2em;
     padding: .7rem;
 }
+
 }
