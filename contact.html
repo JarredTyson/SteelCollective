@@ -13,12 +13,76 @@
 </head>
     
 <body>
-    <div class="container">
+    <header>
+        <a href="contact.html">
+
+        </a>
+<!------Navigation bar ------>
+<nav class="navbar navbar-expand-lg small-screen navbar-light bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.html">Steel Collective</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="gallery.html">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Events</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Contact
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Call</a></li>
+            <li><a class="dropdown-item" href="contact.html">Email</a></li>
+           <li><a class="dropdown-item" href="#">Book Online</a></li>
+          </ul>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+<!------Navigation bar ------>
+<nav class="navbar navbar-dark bg-dark big-screen sticky-top">
+    <div class="container-fluid text-center row padding">
+        <div class="col menu" >
+               <a href="index.html"><i class="active fas fa-home" aria-hidden="true"></i><span>Home</span></a>
+                <a href="gallery.html" ><i class="fas fa-drum-steelpan" aria-hidden="true"></i><span>Gallery</span></a>
+         </div>
+                 
+         <div class="col-4">
+            <h1>Steel Collective</h1>
+            <a class="navbar-brand mx-auto" href="#"><img src="index.htm" >
+            </a>
+         </div>
+                
+        <div class="col menu">
+        <a href="contact.html"><i class="fas fa-address-book" aria-hidden="true"></i><span>Contact</span></a>
+        <a href="#"><i class="fas fa-calendar-week" aria-hidden="true"></i><span>Events</span></a>      
+        </div>  
+        </div>
+    </nav>
+
+            
+        
+        
+ 
+    </header>
+<body>
+    <div class="container text-center">
         <h2 class="heading">Contact Us</h2>
     </div>
   <br>
-  <div class="row">
-    <div class="col-md-12">
+  <div class="row justify-content-center">
+    <div class="col-6 form">
         <form>
        <input type="text" name="text" required="" placeholder="Your Name" class="form-control">
        <br>
@@ -26,9 +90,33 @@
        <br>
        
        <textarea rows="6" placeholder="Message" required="" class="form-control"></textarea>
-       
+       <br>
+       <center>
+           <button class="btn btn-secondary">Submit</button>
+       </center>
+       <br>
         </form>
-
+        
     </div>
 </div
+
+<footer>
+   <div class="container-fluid bg-dark padding">
+    <div class="row text-center padding">
+        <div class="col-12">
+            
+        </div>
+        <div class="col-12 social padding">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-google-plus-g"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+        </div>
+    </div>
 </div>
+        </div>
+    </div>
+</footer>
+        </body>
+    </html>
