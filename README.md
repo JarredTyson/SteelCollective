@@ -39,9 +39,7 @@ The main purpose is to promote the band with the intention of giving an insight 
 - Business goals- as a band member I want to ensure that there is a link for customer to find out about personal projects which will be located on the profile pages. 
 - Business Goals- as the manager of the band I want to ensure that the process is as simple as possible for customers to book the band to increase business which is located in the get a quote section just below the slider quite centrally on the page. Also has numerous way to contact the band to follow-up enquiries. 
 I wanted to create a website that showcased the project of the band and give the audience a deeper understanding of that band that isn’t as possible on other media platforms. I wanted to ensure that it was attractive to the eye encouraging people to see the professionalism of the band and book for gigs such as weddings, awards/special occasions,
-### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 ### Existing Features
 - [x] Gallery-  shows the band in the positive format and gives a sense of the vibe of the band. 
 - [x] About – enlists the history of the band along with aims and goals.
