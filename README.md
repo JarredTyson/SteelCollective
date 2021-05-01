@@ -2,13 +2,13 @@
 This website is created for a steelband. The aim of the band is to approach and represent a more professional small scale market; intended for smaller professional events such as weddings, birthdays or garden parties. The closed band acts as part of an portfolio to get to really know the individuals not only as a band but also as working professionals that have other projects we promote individually.
 The concept of this website is to delve deeper into the individuals as people as well as a collective. The aim is for the audience to gain a personal relationship that is unique and individual as oppose to being generic and single-layered. 
 ####	First Time Visitor Goals
-i.	As a Visitor for the First Time, I want a general overview of the band and what is represented by them on their website.
-a.	Upon opening up the site, the public are greeted with a highly presentable and readable navigation bar to go to the page of their choice. 
-b.	Underneath there is a carousel displaying the hero image of the band performing. 
-c.	The Hero image gives clear representation to the style of the band and give a general indication of what the rest of the site has to offer.
-d.	The user has the option to navigate to the other pages shown in the navigation bar or scroll down the page to the ‘book with ease section’ or ‘about the band’ sections. 
-ii.	As a Visitor for the First Time, I want to be able to navigate around the site effortlessly to discover more information about the band.
-a.	The site was designed to be coherent and not set the user adrift.  The navigation bar is located at the top of each page for uniformity, each containing a link describing and giving clear representation where the page will lead them. 
+* i.	As a Visitor for the First Time, I want a general overview of the band and what is represented by them on their website.
+* a.	Upon opening up the site, the public are greeted with a highly presentable and readable navigation bar to go to the page of their choice. 
+* b.	Underneath there is a carousel displaying the hero image of the band performing. 
+* c.	The Hero image gives clear representation to the style of the band and give a general indication of what the rest of the site has to offer.
+* d.	The user has the option to navigate to the other pages shown in the navigation bar or scroll down the page to the ‘book with ease section’ or ‘about the band’ sections. 
+* ii.	As a Visitor for the First Time, I want to be able to navigate around the site effortlessly to discover more information about the band.
+* a.	The site was designed to be coherent and not set the user adrift.  The navigation bar is located at the top of each page for uniformity, each containing a link describing and giving clear representation where the page will lead them. 
 b.	At the bottom of each page you have the social media links that you will be able to click to lead to view different representations of the band.
 c.	The ‘About the Band’ section is located  at the centre of the page giving our description about the band and some personal history. 
 iii.	As a Visitor for the First Time I want to locate their social media links to see their following on social media to determine how trusted and known they are.
