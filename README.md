@@ -23,13 +23,10 @@ The concept of this website is to delve deeper into the individuals as people as
 ##### ii.	As a Returning Visitor, I want to interact with others in the community.
 * a.	The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
 * b.	Alternatively, you can use the youtube link that will contain peoples comments and opinions to interact with.  
-#### Frequent User Goals
-i.	As a Frequent User, I want to check to see the new events that the band have played for and latest news. 
-
-ii.	As a Frequent User, I want to check to see if there are any new image posts to see any changes in the band.
-
-iii.	The user would already be comfortable with the website layout and can easily click the news link to find out current affairs. 
-
+##### i.	As a Frequent User, I want to check to see if there are any new image posts to see any changes in the band.
+* a. These will be updated in the gallery page to showcase the recent events we've played for.
+#### ii.	The user would already be comfortable with the website layout and can easily click the news link to find out current affairs. 
+* a. The website layout will generally stay the same in the future and is similar to many other web pages making it familiar to navigate around.
 
 ## UX
 The main purpose is to promote the band with the intention of giving an insight into different/in-depth aspects of the band.  
