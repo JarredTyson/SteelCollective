@@ -9,6 +9,20 @@ h1 {
 .navbar {
     padding: .8rem;
 }
+.col-4 ,img{
+    
+    object-fit: contain;
+    
+  
+}
+.logo ,.img{
+    width: 25%;
+}
+.img {
+    display: inline;
+    vertical-align: middle;
+    
+}
 
 .menu a {
     font-size: 1.5em;
@@ -36,14 +50,7 @@ h1 {
     font-weight: 900;
 }
 
-.carousel-caption a {
-    text-transform: uppercase;
-    background: darkorange;
-    padding: 10px 30px;
-    display: inline-block;
-    color: #fff;
-    border-radius: 50px;
-}
+
 .navbar-nav a{
     font-size: 18px;
     text-transform: uppercase;
@@ -150,15 +157,7 @@ padding-bottom: 2rem;
     color: black;
 }
 
-.fa-code {
-    color: #e54d26;
-}
-.fa-bold {
-    color: #563d7c;
-}
-.fa-css3 {
-    color: #2163af;
-}
+
 .fa-code, .fa-bold, .fa-css3 {
     font-size: 4em;
     margin: 1rem;
@@ -168,9 +167,7 @@ padding-bottom: 2rem;
     margin-bottom: 2rem;
 }
 
-.gif{
-    max-width: 100%;
-}
+
 .philosophy img{
 object-fit: cover;
 }
@@ -195,7 +192,7 @@ object-fit: cover;
     
 }
 
-
+/*---Footer---*/
 .fa-facebook {
     color: #3b5998;
 }
