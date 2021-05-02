@@ -27,7 +27,7 @@ The concept of this website is to delve deeper into the individuals as people as
 
 ##### i.	As a Frequent User, I want to check to see if there are any new image posts to see any changes in the band.
 * a. These will be updated in the gallery page to showcase the recent events we've played for.
-iii.	The user would already be comfortable with the website layout and can easily click the news link to find out current affairs. 
+#### ii.	The user would already be comfortable with the website layout and can easily click the news link to find out current affairs. 
 * a. The website layout will generally stay the same in the future and is similar to many other web pages making it familiar to navigate around. 
 
 
